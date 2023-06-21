@@ -1,0 +1,36 @@
+2023-05-24 02:27:37,765 INFO | Server [0] was established !
+2023-05-24 02:27:37,766 INFO | Server [0] is listening !
+2023-05-24 02:27:37,768 INFO | Server [1] was established !
+2023-05-24 02:27:37,768 INFO | Server [1] is listening !
+2023-05-24 02:27:37,769 INFO | Server [2] was established !
+2023-05-24 02:27:37,769 INFO | Server [2] is listening !
+2023-05-24 02:27:37,770 INFO | Server [3] was established !
+2023-05-24 02:27:37,770 INFO | Server [3] is listening !
+2023-05-24 02:27:37,771 INFO | Server [4] was established !
+2023-05-24 02:27:37,771 INFO | Server [4] is listening !
+2023-05-24 02:27:37,773 INFO | Server [5] was established !
+2023-05-24 02:27:37,773 INFO | Server [5] is listening !
+2023-05-24 02:27:37,774 INFO | Server [6] was established !
+2023-05-24 02:27:37,776 INFO | Server [6] is listening !
+2023-05-24 02:27:37,776 INFO | Server [7] was established !
+2023-05-24 02:27:37,778 INFO | Server [7] is listening !
+2023-05-24 02:27:37,779 INFO | Server [8] was established !
+2023-05-24 02:27:37,779 INFO | Server [8] is listening !
+2023-05-24 02:27:37,780 INFO | Server [9] was established !
+2023-05-24 02:27:37,780 INFO | Server [9] is listening !
+2023-05-24 02:27:37,782 INFO | Server [10] was established !
+2023-05-24 02:27:37,782 INFO | Server [10] is listening !
+2023-05-24 02:27:37,784 INFO | Server [11] was established !
+2023-05-24 02:27:37,786 INFO | Server [11] is listening !
+2023-05-24 02:27:37,787 INFO | Server [12] was established !
+2023-05-24 02:27:37,789 INFO | Server [12] is listening !
+2023-05-24 02:27:37,790 INFO | Server [13] was established !
+2023-05-24 02:27:37,791 INFO | Server [13] is listening !
+2023-05-24 02:27:37,793 INFO | Server [14] was established !
+2023-05-24 02:27:37,794 INFO | Server [14] is listening !
+2023-05-24 02:27:37,795 INFO | Server [15] was established !
+2023-05-24 02:27:37,795 INFO | Server [15] is listening !
+2023-05-24 02:27:37,796 INFO | Client [0] was established !
+2023-05-24 02:27:37,796 INFO | Client [0] is listening!
+2023-05-24 02:27:37,847 INFO 1 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 02:27:37,852 INFO 0 <---- 1 with PREPARE - [0, 0]

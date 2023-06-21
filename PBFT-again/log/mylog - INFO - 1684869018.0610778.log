@@ -1,0 +1,19 @@
+2023-05-24 03:10:18,683 INFO | Server [0] was established !
+2023-05-24 03:10:18,685 INFO | Server [0] is listening !
+2023-05-24 03:10:18,686 INFO | Server [1] was established !
+2023-05-24 03:10:18,688 INFO | Server [1] is listening !
+2023-05-24 03:10:18,690 INFO | Server [2] was established !
+2023-05-24 03:10:18,691 INFO | Server [2] is listening !
+2023-05-24 03:10:18,693 INFO | Server [3] was established !
+2023-05-24 03:10:18,694 INFO | Server [3] is listening !
+2023-05-24 03:10:18,696 INFO | Client [0] was established !
+2023-05-24 03:10:18,746 INFO | Client [0] is listening!
+2023-05-24 03:10:18,760 INFO 1 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 03:10:18,765 INFO 0 <---- 1 with PREPARE - [0, 0]
+2023-05-24 03:10:19,006 INFO 2 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 03:10:19,012 INFO 0 <---- 2 with PREPARE - [0, 0]
+2023-05-24 03:10:19,018 INFO 1 <---- 0 with COMMIT - [0, 0]
+2023-05-24 03:10:19,033 INFO 2 <---- 1 with PREPARE - [0, 0]
+2023-05-24 03:10:19,298 INFO 2 <---- 0 with COMMIT - [0, 0]
+2023-05-24 03:10:19,327 INFO 3 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 03:10:19,468 INFO 1 <---- 2 with PREPARE - [0, 0]

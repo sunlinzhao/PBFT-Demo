@@ -1,0 +1,12 @@
+2023-05-24 03:16:04,056 INFO | Server [0] was established !
+2023-05-24 03:16:04,057 INFO | Server [0] is listening !
+2023-05-24 03:16:04,058 INFO | Server [1] was established !
+2023-05-24 03:16:04,058 INFO | Server [1] is listening !
+2023-05-24 03:16:04,059 INFO | Server [2] was established !
+2023-05-24 03:16:04,059 INFO | Server [2] is listening !
+2023-05-24 03:16:04,060 INFO | Server [3] was established !
+2023-05-24 03:16:04,061 INFO | Server [3] is listening !
+2023-05-24 03:16:04,062 INFO | Client [0] was established !
+2023-05-24 03:16:04,063 INFO | Client [0] is listening!
+2023-05-24 03:16:04,124 INFO 1 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 03:16:04,130 INFO 0 <---- 1 with PREPARE - [0, 0]

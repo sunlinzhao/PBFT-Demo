@@ -1,0 +1,116 @@
+2023-05-22 21:20:18,744 INFO | Server [0] was established !
+2023-05-22 21:20:18,746 INFO | Server [0] is listening !
+2023-05-22 21:20:18,747 INFO | Server [1] was established !
+2023-05-22 21:20:18,749 INFO | Server [1] is listening !
+2023-05-22 21:20:18,750 INFO | Server [2] was established !
+2023-05-22 21:20:18,752 INFO | Server [2] is listening !
+2023-05-22 21:20:18,753 INFO | Server [3] was established !
+2023-05-22 21:20:18,755 INFO | Server [3] is listening !
+2023-05-22 21:20:18,756 INFO | Server [4] was established !
+2023-05-22 21:20:18,756 INFO | Server [4] is listening !
+2023-05-22 21:20:18,758 INFO | Server [5] was established !
+2023-05-22 21:20:18,759 INFO | Server [5] is listening !
+2023-05-22 21:20:18,761 INFO | Server [6] was established !
+2023-05-22 21:20:18,762 INFO | Server [6] is listening !
+2023-05-22 21:20:18,763 INFO | Server [7] was established !
+2023-05-22 21:20:18,763 INFO | Server [7] is listening !
+2023-05-22 21:20:18,765 INFO | Server [8] was established !
+2023-05-22 21:20:18,767 INFO | Server [8] is listening !
+2023-05-22 21:20:18,768 INFO | Server [9] was established !
+2023-05-22 21:20:18,769 INFO | Server [9] is listening !
+2023-05-22 21:20:18,771 INFO | Server [10] was established !
+2023-05-22 21:20:18,772 INFO | Server [10] is listening !
+2023-05-22 21:20:18,774 INFO | Server [11] was established !
+2023-05-22 21:20:18,774 INFO | Server [11] is listening !
+2023-05-22 21:20:18,777 INFO | Server [12] was established !
+2023-05-22 21:20:18,777 INFO | Server [12] is listening !
+2023-05-22 21:20:18,778 INFO | Server [13] was established !
+2023-05-22 21:20:18,779 INFO | Server [13] is listening !
+2023-05-22 21:20:18,780 INFO | Server [14] was established !
+2023-05-22 21:20:18,780 INFO | Server [14] is listening !
+2023-05-22 21:20:18,782 INFO | Server [15] was established !
+2023-05-22 21:20:18,783 INFO | Server [15] is listening !
+2023-05-22 21:20:18,785 INFO | Server [16] was established !
+2023-05-22 21:20:18,785 INFO | Server [16] is listening !
+2023-05-22 21:20:18,787 INFO | Server [17] was established !
+2023-05-22 21:20:18,788 INFO | Server [17] is listening !
+2023-05-22 21:20:18,790 INFO | Server [18] was established !
+2023-05-22 21:20:18,792 INFO | Server [18] is listening !
+2023-05-22 21:20:18,793 INFO | Server [19] was established !
+2023-05-22 21:20:18,794 INFO | Server [19] is listening !
+2023-05-22 21:20:18,796 INFO | Server [20] was established !
+2023-05-22 21:20:18,798 INFO | Server [20] is listening !
+2023-05-22 21:20:18,800 INFO | Server [21] was established !
+2023-05-22 21:20:18,802 INFO | Server [21] is listening !
+2023-05-22 21:20:18,803 INFO | Server [22] was established !
+2023-05-22 21:20:18,805 INFO | Server [22] is listening !
+2023-05-22 21:20:18,806 INFO | Server [23] was established !
+2023-05-22 21:20:18,808 INFO | Server [23] is listening !
+2023-05-22 21:20:18,809 INFO | Server [24] was established !
+2023-05-22 21:20:18,811 INFO | Server [24] is listening !
+2023-05-22 21:20:18,812 INFO | Server [25] was established !
+2023-05-22 21:20:18,813 INFO | Server [25] is listening !
+2023-05-22 21:20:18,815 INFO | Server [26] was established !
+2023-05-22 21:20:18,818 INFO | Server [26] is listening !
+2023-05-22 21:20:18,819 INFO | Server [27] was established !
+2023-05-22 21:20:18,822 INFO | Server [27] is listening !
+2023-05-22 21:20:18,823 INFO | Server [28] was established !
+2023-05-22 21:20:18,825 INFO | Server [28] is listening !
+2023-05-22 21:20:18,826 INFO | Server [29] was established !
+2023-05-22 21:20:18,829 INFO | Server [29] is listening !
+2023-05-22 21:20:18,830 INFO | Server [30] was established !
+2023-05-22 21:20:18,833 INFO | Server [30] is listening !
+2023-05-22 21:20:18,834 INFO | Server [31] was established !
+2023-05-22 21:20:18,837 INFO | Server [31] is listening !
+2023-05-22 21:20:18,837 INFO | Client [0] was established !
+2023-05-22 21:20:18,839 INFO | Client [0] is listening!
+2023-05-22 21:20:18,903 INFO 1 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:19,083 INFO 2 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:19,408 INFO 3 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:19,413 INFO 0 <---- 3 with PREPARE - [0, 0]
+2023-05-22 21:20:19,875 INFO 4 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:19,891 INFO 1 <---- 3 with PREPARE - [0, 0]
+2023-05-22 21:20:20,173 INFO 5 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:20,454 INFO 6 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:20,782 INFO 7 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-22 21:20:23,439 INFO 1 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:23,441 INFO 0 <---- 1 with PREPARE - [0, 1]
+2023-05-22 21:20:23,845 INFO 2 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:23,848 INFO 0 <---- 2 with PREPARE - [0, 1]
+2023-05-22 21:20:23,941 INFO 2 <---- 1 with PREPARE - [0, 1]
+2023-05-22 21:20:23,952 INFO 1 <---- 0 with PRE_PREPARE [0, 2]
+2023-05-22 21:20:23,954 INFO 0 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:23,986 INFO 3 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:23,991 INFO 0 <---- 3 with PREPARE - [0, 1]
+2023-05-22 21:20:24,144 INFO 1 <---- 3 with PREPARE - [0, 1]
+2023-05-22 21:20:24,225 INFO 3 <---- 1 with PREPARE - [0, 1]
+2023-05-22 21:20:24,316 INFO 2 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,317 INFO 4 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:24,319 INFO 0 <---- 4 with PREPARE - [0, 1]
+2023-05-22 21:20:24,346 INFO 1 <---- 2 with PREPARE - [0, 1]
+2023-05-22 21:20:24,378 INFO 2 <---- 0 with PRE_PREPARE [0, 2]
+2023-05-22 21:20:24,381 INFO 0 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,441 INFO 5 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:24,446 INFO 0 <---- 5 with PREPARE - [0, 1]
+2023-05-22 21:20:24,451 INFO 1 <---- 0 with PRE_PREPARE [0, 3]
+2023-05-22 21:20:24,454 INFO 0 <---- 1 with PREPARE - [0, 3]
+2023-05-22 21:20:24,519 INFO 4 <---- 1 with PREPARE - [0, 1]
+2023-05-22 21:20:24,582 INFO 3 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,614 INFO 2 <---- 3 with PREPARE - [0, 1]
+2023-05-22 21:20:24,618 INFO 1 <---- 5 with PREPARE - [0, 1]
+2023-05-22 21:20:24,626 INFO 1 <---- 4 with PREPARE - [0, 1]
+2023-05-22 21:20:24,705 INFO 5 <---- 1 with PREPARE - [0, 1]
+2023-05-22 21:20:24,721 INFO 2 <---- 0 with PRE_PREPARE [0, 3]
+2023-05-22 21:20:24,724 INFO 0 <---- 2 with PREPARE - [0, 3]
+2023-05-22 21:20:24,736 INFO 4 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,739 INFO 1 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,784 INFO 2 <---- 1 with PREPARE - [0, 3]
+2023-05-22 21:20:24,828 INFO 2 <---- 4 with PREPARE - [0, 1]
+2023-05-22 21:20:24,831 INFO 3 <---- 0 with PRE_PREPARE [0, 2]
+2023-05-22 21:20:24,835 INFO 0 <---- 1 with PREPARE - [0, 2]
+2023-05-22 21:20:24,843 INFO 3 <---- 2 with PREPARE - [0, 1]
+2023-05-22 21:20:24,905 INFO 6 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-22 21:20:24,907 INFO 0 <---- 6 with PREPARE - [0, 1]
+2023-05-22 21:20:24,961 INFO 1 <---- 0 with PRE_PREPARE [0, 4]
+2023-05-22 21:20:24,965 INFO 0 <---- 1 with PREPARE - [0, 4]
+2023-05-22 21:20:24,967 INFO 1 <---- 2 with PREPARE - [0, 3]

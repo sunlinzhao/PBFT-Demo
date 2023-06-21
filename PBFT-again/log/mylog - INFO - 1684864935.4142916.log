@@ -1,0 +1,38 @@
+2023-05-24 02:02:16,021 INFO | Server [0] was established !
+2023-05-24 02:02:16,022 INFO | Server [0] is listening !
+2023-05-24 02:02:16,024 INFO | Server [1] was established !
+2023-05-24 02:02:16,025 INFO | Server [1] is listening !
+2023-05-24 02:02:16,027 INFO | Server [2] was established !
+2023-05-24 02:02:16,028 INFO | Server [2] is listening !
+2023-05-24 02:02:16,031 INFO | Server [3] was established !
+2023-05-24 02:02:16,031 INFO | Server [3] is listening !
+2023-05-24 02:02:16,033 INFO | Server [4] was established !
+2023-05-24 02:02:16,036 INFO | Server [4] is listening !
+2023-05-24 02:02:16,037 INFO | Server [5] was established !
+2023-05-24 02:02:16,039 INFO | Server [5] is listening !
+2023-05-24 02:02:16,040 INFO | Server [6] was established !
+2023-05-24 02:02:16,043 INFO | Server [6] is listening !
+2023-05-24 02:02:16,043 INFO | Server [7] was established !
+2023-05-24 02:02:16,045 INFO | Server [7] is listening !
+2023-05-24 02:02:16,046 INFO | Client [0] was established !
+2023-05-24 02:02:16,047 INFO | Client [0] is listening!
+2023-05-24 02:02:16,107 INFO 1 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 02:02:16,112 INFO 0 <---- 1 with PREPARE - [0, 0]
+2023-05-24 02:02:16,182 INFO 1 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-24 02:02:16,192 INFO 0 <---- 1 with PREPARE - [0, 1]
+2023-05-24 02:02:16,234 INFO 2 <---- 1 with PREPARE - [0, 0]
+2023-05-24 02:02:16,272 INFO 1 <---- 0 with PRE_PREPARE [0, 2]
+2023-05-24 02:02:16,274 INFO 0 <---- 1 with PREPARE - [0, 2]
+2023-05-24 02:02:16,381 INFO 1 <---- 0 with PRE_PREPARE [0, 3]
+2023-05-24 02:02:16,384 INFO 0 <---- 1 with PREPARE - [0, 3]
+2023-05-24 02:02:16,416 INFO 2 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-24 02:02:16,422 INFO 0 <---- 2 with PREPARE - [0, 1]
+2023-05-24 02:02:16,482 INFO 2 <---- 1 with PREPARE - [0, 2]
+2023-05-24 02:02:16,493 INFO 1 <---- 0 with PRE_PREPARE [0, 4]
+2023-05-24 02:02:16,498 INFO 0 <---- 1 with PREPARE - [0, 4]
+2023-05-24 02:02:16,528 INFO 3 <---- 1 with PREPARE - [0, 0]
+2023-05-24 02:02:16,603 INFO 1 <---- 0 with PRE_PREPARE [0, 5]
+2023-05-24 02:02:16,607 INFO 2 <---- 0 with PRE_PREPARE [0, 0]
+2023-05-24 02:02:16,611 INFO 0 <---- 1 with PREPARE - [0, 5]
+2023-05-24 02:02:16,855 INFO 3 <---- 0 with PRE_PREPARE [0, 1]
+2023-05-24 02:02:17,697 INFO 1 <---- 0 with PRE_PREPARE [0, 6]

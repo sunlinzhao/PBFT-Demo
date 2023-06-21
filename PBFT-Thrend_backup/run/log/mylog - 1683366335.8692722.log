@@ -1,0 +1,50 @@
+2023-05-06 17:45:35,874 INFO | Server [0] was established !
+2023-05-06 17:45:35,874 INFO | Server [0] is listening !
+2023-05-06 17:45:35,875 INFO | Server [1] was established !
+2023-05-06 17:45:35,875 INFO | Server [1] is listening !
+2023-05-06 17:45:35,875 INFO | Server [2] was established !
+2023-05-06 17:45:35,876 INFO | Server [2] is listening !
+2023-05-06 17:45:35,876 INFO | Server [3] was established !
+2023-05-06 17:45:35,876 INFO | Server [3] is listening !
+2023-05-06 17:45:35,876 INFO | Client [0] was established !
+2023-05-06 17:45:35,876 INFO | Client [0] is listening!
+2023-05-06 17:45:35,878 INFO | Server [0] has received <REQUEST> message from Client [0] whit address ('127.0.0.1', 30000)
+2023-05-06 17:45:35,879 INFO | Server [1] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:35,880 INFO | Server [0] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:36,390 INFO | Server [2] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:36,391 INFO | Server [2] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:36,392 INFO | Server [0] has received <PREPARE> message from Node [2] with address ('127.0.0.1', 65302)
+2023-05-06 17:45:36,394 INFO | Server [1] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:36,900 INFO | Server [3] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:36,901 INFO | Server [1] has received <PREPARE> message from Node [2] with address ('127.0.0.1', 65302)
+2023-05-06 17:45:36,901 INFO | Server [3] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:36,902 INFO | Server [2] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:36,903 INFO | Server [0] has received <PREPARE> message from Node [3] with address ('127.0.0.1', 65303)
+2023-05-06 17:45:36,904 INFO | Server [1] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:37,415 INFO | Server [2] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:37,416 INFO | Server [3] has received <PREPARE> message from Node [2] with address ('127.0.0.1', 65302)
+2023-05-06 17:45:37,417 INFO | Server [1] has received <PREPARE> message from Node [3] with address ('127.0.0.1', 65303)
+2023-05-06 17:45:37,417 INFO | Server [3] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:37,418 INFO | Server [0] has received <COMMIT> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:37,931 INFO | Server [2] has received <COMMIT> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:37,932 INFO | Server [2] has received <PREPARE> message from Node [3] with address ('127.0.0.1', 65303)
+2023-05-06 17:45:37,932 INFO | Server [3] has received <COMMIT> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:37,933 INFO Client [0] has received 0th message :Result, from ('127.0.0.1', 65302)
+2023-05-06 17:45:38,446 INFO | Server [3] has received <COMMIT> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:38,447 INFO | Server [0] has received <REQUEST> message from Client [0] whit address ('127.0.0.1', 30000)
+2023-05-06 17:45:38,452 INFO | Server [1] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:38,454 INFO | Server [0] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:38,958 INFO Client [0] has received 1th message :Result, from ('127.0.0.1', 65303)
+2023-05-06 17:45:38,960 INFO | Server [2] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:38,961 INFO | Server [2] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:39,478 INFO | Server [3] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:39,479 INFO | Server [3] has received <REQUEST> message from Client [0] whit address ('127.0.0.1', 30000)
+2023-05-06 17:45:39,479 INFO | Server [3] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:39,481 INFO | Server [1] has received <REQUEST> message from Client [0] whit address ('127.0.0.1', 65303)
+2023-05-06 17:45:39,482 INFO | Server [0] has received <REQUEST> message from Client [0] whit address ('127.0.0.1', 65301)
+2023-05-06 17:45:39,485 INFO | Server [1] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:39,485 INFO | Server [0] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:39,987 INFO | Server [2] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:40,002 INFO | Server [2] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
+2023-05-06 17:45:40,500 INFO | Server [3] has received <PRE_PREPARE> message from Node [0] with address ('127.0.0.1', 65300)
+2023-05-06 17:45:40,516 INFO | Server [3] has received <PREPARE> message from Node [1] with address ('127.0.0.1', 65301)
